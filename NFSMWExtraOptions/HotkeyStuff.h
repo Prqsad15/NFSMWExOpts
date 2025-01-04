@@ -1,4 +1,5 @@
-#include "stdio.h"
+/*
+	#include "stdio.h"
 #include <windows.h>
 #include "..\includes\injector\injector.hpp"
 #include "..\includes\IniReader.h"
@@ -415,3 +416,4 @@ void Thing()
 	}
 	_asm popad;
 }
+*/
